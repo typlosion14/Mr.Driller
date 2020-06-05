@@ -1,0 +1,3 @@
+Morgan Hue - Conception de HUD,Menu,son
+Corentin Fragnaud - Conception du Moteur du Jeu
+Gonzague Marquis - Avis/Test
